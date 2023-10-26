@@ -17,6 +17,8 @@
 ## Project Summary
 
 <Complete for *Project Proposal* assignment submission to give idea to the reader what youa re trying to do and how> 
+Based on a persons body signals it can be predicted if they are a drinker. This data can be used for alcohol companies to target certain groups.
+A person can be classified as a drinker based on information gatherd from biometrics.
 
 <Fully rewrite the summary as the last step for the *Project Submission* assignment: github.com repositories on how people shortblurb thre project. It is a standalone section. It is written to give the reader a summary of your work. Be sure to specific, yet brief.>
 
@@ -24,6 +26,7 @@
 ## Problem Statement 
 
 <Add one sentence for the *Project Proposal* assignment submission that captures the project statement.>
+We, as a group, are going to use the dataset to train a model to predict if a person is a drinker or not.
 
 <Expand the section with few sentences for the *Project Progress* assignment submission> 
 * Give a clear and complete statement of the problem.
